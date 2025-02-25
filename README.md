@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @giaanlucs
-- 👀 I’m interested in share my knowledge
-- 🌱 I am currently learning to develop and improve my skills in systems development
-- 📫 You can contact me through my personal email: gianlucs12@outlook.com
-- 👉🏻 My LinkedIn: https://www.linkedin.com/in/gianlucacorrea/
+👋 Hi, I’m @giaanlucs
+🌱 I am currently learning to develop and improve my skills in systems development
+📫 You can contact me through my personal email: gianlucs12@outlook.com
+👉🏻 My LinkedIn: https://www.linkedin.com/in/gianlucacorrea/
+
