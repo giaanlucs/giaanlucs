@@ -1,8 +1,7 @@
 # Hello World, I'm Gianluca, be very welcome!
 
 <table>
-  <a href="https://github.com/giaanlucs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaanlucs&layout=compact&langs_count=6&theme=tokyonight"/></br></br>
+  <a href="https://github.com/giaanlucs"></br></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100" alt="C#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" alt="Java">
