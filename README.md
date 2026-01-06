@@ -1,4 +1,4 @@
-# Hello World, I'm Gianluca, be very welcome!
+# I'm Gianluca!
 
 <table>
   <a href="https://github.com/giaanlucs"></br></br>
